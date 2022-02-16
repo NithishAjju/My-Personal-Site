@@ -1,0 +1,145 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin-top: 50px;
+    font-family: 'Sacramento', cursive;
+    font-size: 500% ;/* 100% = 16px; 1em= 16px; 1rem= 16px*/
+    color: #66BFBF;
+}
+h2{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 2.5 rem;
+    color: #66BFBF;
+    font-weight: 600;
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #11999E;
+}
+.rocket{
+    position: relative;
+    right: 24rem;
+    bottom: 10rem;
+    height: 25rem;
+}
+.contact-description{
+    margin: 50px;
+}
+.contact-me{
+    padding-bottom: 50px;
+}
+.skill-row{
+    width: 50%;
+    margin: 100px auto 100px;
+    text-align: left;
+    line-height: 2;
+}
+.end-note{
+    width: 50%;
+    margin: auto;
+    padding-bottom: 30px ;
+}
+
+.top-cloud{
+    margin-bottom:0;
+    position: relative;
+    left:230px;
+}
+.top-container{
+    background-color: #1A1A40 ;
+    padding-top: 5rem ;
+    background-image: url("K77.png");
+    color: white;
+
+}
+.Profile-picture{
+    width: 25%;
+    text-align: center;
+    
+}
+.web-development{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.Dance{
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+
+}
+.middle-container{
+   background-color: #1A1A40 ; 
+   color:white;
+}
+.bottom-container{
+    margin: 0;
+    color:white;
+    background-color: #cacae7;
+    padding: 70px;
+
+}
+
+.rights{
+    position: relative;
+    top: 50px
+}
+.bottom-cloud{
+    position: absolute;
+    left: 360px;
+}
+p{
+    line-height: 2;
+}
+.intro{
+    width: 50%;
+    margin: auto;
+}
+
+a{
+    color: #11999E;  
+}
+.btn {
+    margin: auto;
+    background-color: #139487; /* Green */
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 15px;
+    margin: 4px 2px;
+    border-radius: 10px;
+    transition-duration: 0.4s;
+    cursor: pointer;
+}
+.btn:hover{
+    background-color: #94d4ee;
+    color:#343738
+}
+hr{
+    border-style: none;
+    border-top-style: dotted;
+    width: 5%;
+    border-color: #35858B ;   
+    border-width: 5px; 
+    margin:100px auto 100px;
+}
+.footer-link{
+    margin: 0 50px;
+    color:  #11999E;
+    text-decoration: none;
+}
+.footer-link:hover{
+    color: #35858B;
+}
+.rights{
+    color:  #11999E;
+}
+
+
